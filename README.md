@@ -6,7 +6,6 @@
 
 # EXAMPLE 
 
-<img width="662" height="465" alt="Screenshot_2025-10-21_00-58-01" src="https://github.com/user-attachments/assets/99f15f0a-9137-45cf-a99f-68d9db65bccf" />
 <img width="1280" height="1024" alt="Screenshot_2025-10-21_00-58-48" src="https://github.com/user-attachments/assets/0fb9fb29-2f69-4828-bd0f-79d5537e85df" />
 <img width="1280" height="1024" alt="Screenshot_2025-10-21_00-58-58" src="https://github.com/user-attachments/assets/d86ec65c-f1ac-4545-a7f1-431566545299" />
 <img width="1280" height="1024" alt="Screenshot_2025-10-21_00-59-05" src="https://github.com/user-attachments/assets/d9a564ba-79b7-404a-8c5f-b914ba64b1c6" />
